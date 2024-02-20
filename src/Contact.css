@@ -1,0 +1,61 @@
+.contact-section h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact-section h1 span{
+    color: #ff004f;
+    margin: 5px;
+}
+
+
+
+
+.contact section{
+    background-color: aquamarine;
+}
+textarea{
+    resize: none;
+    width: 400px;
+    height: 200px;
+    background-color: #fff;
+    border: 2px solid #ff004f;
+    color: black;
+   
+}
+form{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    
+
+
+}
+.form :placeholder-shown{
+    text-align: center;
+    color: black;
+}
+
+
+
+
+.username{
+    width: 400px;
+    background-color: white;
+    border: 1px solid red;
+    color: black;
+}
+.password{
+    width: 400px;
+    background-color: #fff;
+    color: black;
+}
+input[type="submit"]{
+    background-color: #ff004f;
+    border: none;
+    font-size: 14px;
+    padding: 7px 20px;
+    border-radius: 20px;
+}
+

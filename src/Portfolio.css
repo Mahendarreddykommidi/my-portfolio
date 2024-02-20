@@ -1,0 +1,50 @@
+.portfolio{
+    font-size: 14px;
+}
+.portfolio p{
+    font-size: 15px;
+}
+
+.portfolio h1{
+    text-align: center;
+    font-size: 40px;
+}
+.images{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.images img{
+    gap: 2px;
+
+    width: 90%;  
+    padding: 0px 20px;
+    size: 60px;
+ 
+ 
+}
+.work p{
+   font-size: 14px;
+}
+.work:hover{
+    margin-top: -200px;
+  
+
+}
+.work1:hover{
+
+    margin-top: -200px;
+}
+.icons{
+    font-size: 20px;
+    color: white;
+}
+.button button{
+    margin-top: 20px;
+    margin-left: -30px;
+}
+
+
+
+

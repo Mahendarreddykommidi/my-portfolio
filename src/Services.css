@@ -1,0 +1,79 @@
+.services{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 150px;
+ 
+}
+
+.services-list{
+    padding: 0px 50px;
+}
+.services-section h1{
+    text-align: center;
+}
+.card{
+    width: 330px;
+    height: 360px;
+    background-color: gainsboro;
+    margin: 30px;
+   
+    border-radius: 15px;
+    background-color: #262626;
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+.card p{
+    font-size: 13px;
+    margin-top: 20px;
+    text-align: center;
+}
+.icons{
+    font-size: 80px;
+}
+
+.card-btn button{
+
+    margin-top: 20px;
+    background-color: #1e90ff;
+}
+.service-items{
+    display: flex;
+
+}
+.card:hover{
+    background: color #ff004f;;
+}
+
+
+   
+   
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+              
+                  
+  
+ 
+
+
+
+
+
+

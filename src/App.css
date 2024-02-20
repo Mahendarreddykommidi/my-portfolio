@@ -1,0 +1,75 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2px 6%;
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+    gap: 10px;
+    margin-right: 400px;
+}
+button{
+    float: right;
+    margin-top: -36px;
+    border: 2px solid red;
+    border: none;
+    border-radius: 20px;
+    padding: 7px 16px;
+    font-size: 13px;
+    background-color:#ff004f;
+}
+*{
+    
+    color: white;
+    font-family: "Poppins",sans-serif;
+}
+
+
+.hero{
+    display: flex;
+    justify-content: space-between;
+  
+}
+.hero h1{
+    font-size: 60px;
+    color:white
+}
+.hero h1 span{
+    color: #ff004f;
+}
+.para p{
+    font-size: 13px;
+    font-weight: bold;
+}
+.right-img img{
+    border-radius: 50%;
+    border: 3px solid #ff004f;
+}
+.buttons a{
+    margin: 10px;
+    background-color:transparent;
+    padding: 7px 16px;
+    font-size: 12px;
+    border-radius: 20px;
+    border: 1px solid gold;
+}
+.buttons a:hover{
+    background-color: red;
+    border: none;
+}
+li:hover{
+    color: #ff004f;
+}
+.navbar h1 span{
+    color: #ff004f;
+  
+}
+body{
+  
+    background-color: black;
+}
+.card:hover{
+    background-color: #ff004f;
+}
